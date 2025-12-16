@@ -1,5 +1,3 @@
-Perfeito! Agora tenho uma visão completa do seu aplicativo. Deixe-me criar um resumo detalhado:
-
 📄 Contrato Pro AI - Resumo Executivo
 Contrato Pro AI é uma aplicação web moderna e inteligente para geração automatizada de contratos de prestação de serviços usando Inteligência Artificial (Google Gemini).
 
